@@ -16,3 +16,9 @@
     <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
+
+<div>
+<br/>
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesTiago7&layout=compact)](https://github.com/AlvesTiago7/github-readme-stats)
